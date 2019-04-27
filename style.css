@@ -1,0 +1,180 @@
+body {
+margin: 0px;
+padding-top: 0px;
+font-family: 'Bitter', serif;
+}
+.atas {
+background: rgb(250, 250, 250);
+width: 75%;
+border-top-left-radius: 40px;
+border-top-right-radius: 40px;
+height: 103px;
+margin-left: auto;
+margin-right: auto;
+}
+.social_button {
+float: right;
+padding-right: 16px;
+padding-left: 16px;
+background: rgb(9, 31, 66);
+border-top-right-radius: 63px;
+border-bottom-left-radius: 30px;
+}
+.logo_minggo {
+float: right;
+}
+.logo_minggo>img {
+width: 130px;
+padding-top: 30px;
+padding-left: 20px;
+}
+.tulisan {
+float: right;
+right: 12.5%;
+top: 68px;
+padding-top: 15px;
+position: absolute;
+color: white;
+padding-left: 40px;
+padding-right: 15px;
+text-align: right;
+background: rgb(9, 31, 66);
+border-top-left-radius: 35px;
+}
+ul#pilihan {
+padding-left: 12%;
+color: rgb(9, 31, 66);
+-webkit-margin-before: 2;
+-webkit-margin-after: 2;
+}
+li#log {
+float: left;
+color: rgb(201, 236, 0);
+padding: 10px;
+font-family: arial;
+padding-right: 2%;
+}
+li#home {
+float: right;
+color: rgb(9, 31, 66);
+padding: 10px;
+font-family: arial;
+padding-right: 2%;
+}
+
+li#about {
+float: right;
+color:rgb(9, 31, 66);
+padding: 10px;
+font-family: arial;
+padding-right: 2%;
+}
+li#shop {
+float: right;
+color: rgb(9, 31, 66);
+padding: 10px;
+font-family: arial;
+}
+li#home:hover {
+
+color: rgb(105, 26, 26);
+padding: 10px;
+font-weight:bold;
+font-family: arial;
+}
+
+li#about:hover {
+
+color: rgb(105, 26, 26);
+padding: 10px;
+font-weight:bold;
+font-family: arial;
+}
+
+h2 {
+font-family: sans-serif;
+font-weight: bold;
+font-size: 15px;
+}
+.Menu {
+height: 8S0px;
+background: rgb(34, 90, 122);
+position: fixed;
+width: 100%;
+z-index: 10;
+border: 1.5px solid #ccc;
+}
+.tengah {
+padding-top: 70px;
+}
+
+.tiket {
+width: 75%;
+top: 100px;
+position: right;
+padding-left: 20px;
+margin-left: auto;
+margin-right: auto;
+}
+table#tiket_tab {
+width: 100%;
+border: 10px solid rgb(85, 125, 235);
+}
+td#carip {
+width: 60%;
+padding: 20px;
+}
+td{
+padding: 20px;
+}
+table#tiket_tab {
+width: 100%;
+padding: 20px;
+margin-left: auto;
+margin-right: auto;
+background:white;
+}
+input[type="text"] {
+width: 100%;
+height: 30px;
+color: #333;
+font: 100%/1.4 Verdana,Arial,Helvetica,sans-serif;
+border: 1px solid #ccc;
+padding: 15px;
+vertical-align: middle;
+background: url("http://asset.traveloka.com/assets/stylesheets/images/sprite/travelokahotel-sprite-20040.png") -516px -393px no-repeat scroll;
+padding-left: 40px !important;
+}
+p {
+font-size: 13px;
+}
+input[type="submit"] {
+width: 75px;
+height: 46px;
+background: rgb(56, 5, 3);
+color: white;
+border: none;
+font-family: arial;
+font-size: 20px;
+}
+div#judul {
+background: rgb(21, 76, 128);
+color: white;
+text-align: center;
+font-size: 11px;
+height: 40px;
+line-height: 45px;
+}
+div#tab {
+width: 75px;
+background: rgb(138, 35, 35);
+padding: 5px;
+color: white;
+text-align: center;
+}
+.maindiv {
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 10px;
+}

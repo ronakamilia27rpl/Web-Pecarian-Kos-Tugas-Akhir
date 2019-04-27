@@ -1,0 +1,113 @@
+body {
+background: url(room3.jpg);
+background-size:100%;
+background-repeat:no-repeat; 
+margin: 0px;
+padding-top: 0px;
+font-family: 'Bitter', serif;
+}
+.atas {
+background: rgb(255, 255, 255);
+width: 75%;
+border-top-left-radius: 40px;
+border-top-right-radius: 40px;
+height: 103px;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+
+/* top navigation */
+.topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  /* topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #d45fa3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+h2 {
+font-family: sans-serif;
+font-weight: bold;
+font-size: 15px;
+}
+.Menu {
+height: 70px;
+background: rgb(18, 12, 73);
+position: fixed;
+width: 100%;
+z-index: 10;
+border: 1.5px solid #ccc;
+}
+.tengah {
+padding-top: 70px;
+}
+
+.kost {
+width: 75%;
+top: 100px;
+position: right;
+padding-left: 20px;
+margin-left: auto;
+margin-right: auto;
+}
+table#kost_tab {
+width: 100%;
+border: 10px solid rgb(43, 216, 207);
+}
+td#carik {
+width: 60%;
+padding: 20px;
+}
+td{
+padding: 20px;
+}
+table#kost_tab {
+width: 100%;
+padding: 20px;
+margin-left: auto;
+margin-right: auto;
+background:rgb(183, 226, 187);
+}
+
+p {
+font-size: 13px;
+}
+input[type="submit"] {
+width: 75px;
+height: 46px;
+background: rgb(15, 13, 165);
+color: white;
+border: none;
+font-family: arial;
+font-size: 20px;
+}
+div#judul {
+background: rgb(10, 18, 88);
+color: rgb(209, 231, 229);
+text-align: center;
+font-size: 11px;
+height: 40px;
+line-height: 45px;
+}
+
+.maindiv {
+width: 75%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 10px;
+}
